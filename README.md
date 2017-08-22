@@ -13,4 +13,5 @@ The notebooks can be viewed using [nbviewer](http://nbviewer.jupyter.org/):
 - [Competing Equilibria](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/Competing%20Equilibria.ipynb)
 - [Maxwell-Boltzmann](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/Maxwell-Boltzmann.ipynb)
 
-Interactive versions of the notebooks can be launched using [binder](http://mybinder.org): [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/bjmorgan/ViCEPHEC17)
+Interactive versions of the notebooks can be launched using [binder](http://mybinder.org):  
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/bjmorgan/ViCEPHEC17)
