@@ -12,4 +12,3 @@ The notebooks can be viewed using [nbviewer](http://nbviewer.jupyter.org/):
 - [Competing Equilibria](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/Competing%20Equilibria.ipynb)
 - [SSA Simulation](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/SSA_simulation.ipynb)
 - [Maxwell-Boltzmann](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/Maxwell-Boltzmann.ipynb)
-- 
