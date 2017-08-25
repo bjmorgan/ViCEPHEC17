@@ -16,11 +16,12 @@ The notebooks can be viewed using [nbviewer](http://nbviewer.jupyter.org/):
 - [Maxwell-Boltzmann](http://nbviewer.jupyter.org/github/bjmorgan/ViCEPHEC17/blob/master/Maxwell-Boltzmann.ipynb)
 
 Interactive versions of the notebooks can be launched using [binder](http://mybinder.org):  
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/bjmorgan/ViCEPHEC17), but we recommend you download this repository and run Jupyter on your own machine for the best experience.
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/bjmorgan/ViCEPHEC17)  
+We recommend you download this repository and run Jupyter on your own machine for the best experience.
 
 ## Getting started (Anaconda)
 
-Although the example Jupyter notebooks can be viewed using the links above, they are best run interactively in Jupyter. The simplest way to do this is to download [Anaconda](https://www.continuum.io/downloads). Then download this repository, by selecting `Clone or download > Download ZIP` at the top of this page. Extract the downloaded ZIP archive. Then launch Anaconda, and launch Jupyter. This opens Jupyter in your web browser, with a view of your filesystem. Navigate to where you unzipped this reposutory, and get started by opening the `ViCE_intro_2017.ipynb` notebook.
+Although the example Jupyter notebooks can be viewed using the links above, they are best run interactively in Jupyter. The simplest way to do this is to download [Anaconda](https://www.continuum.io/downloads). Download this repository, by selecting `Clone or download > Download ZIP` at the top of this page. Extract the downloaded ZIP archive. Then launch Anaconda, and launch Jupyter. This opens Jupyter in your web browser, with a view of your filesystem. Navigate to where you unzipped this reposutory, and get started by opening the `ViCE_intro_2017.ipynb` notebook.
 
 ## Getting starteg (command line / Advanced)
 
