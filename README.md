@@ -23,7 +23,7 @@ We recommend you download this repository and run Jupyter on your own machine fo
 
 Although the example Jupyter notebooks can be viewed using the links above, they are best run interactively in Jupyter. The simplest way to do this is to download [Anaconda](https://www.continuum.io/downloads). Download this repository, by selecting `Clone or download > Download ZIP` at the top of this page. Extract the downloaded ZIP archive. Then launch Anaconda, and launch Jupyter. This opens Jupyter in your web browser, with a view of your filesystem. Navigate to where you unzipped this reposutory, and get started by opening the `ViCE_intro_2017.ipynb` notebook.
 
-## Getting starteg (command line)
+## Getting started (command line)
 
 If you have `pip` running from the command line, you can install Jupyter using `pip install jupyter`. Download this repo using `git clone https://github.com/bjmorgan/ViCEPHEC17.git`. Go into the new `ViCEPHEC17` directory and launch Jupyter with `jupyter notebook`. Get started by opening the `ViCE_intro_2017.ipynb` notebook, or go straight to the first tutorial example `SSA simulation.ipynb`. You might need to install additional Python modules. If so, follow the `Requirements` instructions below.
 
