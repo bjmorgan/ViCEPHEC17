@@ -6,7 +6,7 @@ Benjamin J. Morgan & Fiona Dickinson
 
 [![DOI](https://zenodo.org/badge/101063504.svg)](https://zenodo.org/badge/latestdoi/101063504)
 
-This repository contains Jupyter notebooks for the ViVE PHEC 2017 workshop.
+This repository contains Jupyter notebooks for the ViCE PHEC 2017 workshop.
 
 The notebooks can be viewed using [nbviewer](http://nbviewer.jupyter.org/):
 
